@@ -10,27 +10,20 @@ Specialists are units that can be hired on Stars or Carriers, provided the Carri
 
 Specialists have certain properties that apply to all or most specialists, which are listed here:
 
- * Only one specialist may be hired in a carrier or star at a time.
- *   When a specialist is hired in a carrier or star that already contains a specialist, the previous specialist is replaced by the newly hired one.
- 
- * When a carrier containing a specialist is destroyed in combat, the specialist is destroyed as well.
- 
- * When a star containing a specialist is captured in combat, the new owner of the star owns the specialist as well.
- *   ...Unless the star contains a Demolition Controller.
-
- * When gifting a carrier that contains a specialist, the specialist is destroyed when the carrier is received.
-
- * Specialists cannot be manually destroyed; Only replaced.
- *   In the case of carrier specialists, scuttling the carrier will cause the specialist to be destroyed.
- 
- * Specialists effects only apply locally, meaning only to the star or carrier it's on.
- 
- * A specialist cannot cause tech (i.e. weapons, scanning, terraforming, etc) to go below a level of 1.
- *   With weapons specialists, when defender bonus applies, it cannot cause weapons to go below a level of 2.
- *    ...Unless an Infiltrator is used, which can cause weapons to drop to 1 even when defender bonus is applied.
- 
- * If you are using multiple weapons buff specialists in combat at the same time, only the specialist that gives the highest buff counts.
- *   Because the Infiltrator gives a debuff instead of a buff, it can function at the same time as a weapons buff specialist.  
+ 1) Only one specialist may be hired in a carrier or star at a time.
+ a.   When a specialist is hired in a carrier or star that already contains a specialist, the previous specialist is replaced by the newly hired one.
+ 2) When a carrier containing a specialist is destroyed in combat, the specialist is destroyed as well.
+ 3) When a star containing a specialist is captured in combat, the new owner of the star owns the specialist as well.
+ a.   ...Unless the star contains a Demolition Controller.
+ 4) When gifting a carrier that contains a specialist, the specialist is destroyed when the carrier is received.
+ 5) Specialists cannot be manually destroyed; Only replaced.
+ a.   In the case of carrier specialists, scuttling the carrier will cause the specialist to be destroyed.
+ 6) Specialists effects only apply locally, meaning only to the star or carrier it's on.
+ 7) A specialist cannot cause tech (i.e. weapons, scanning, terraforming, etc) to go below a level of 1.
+ a.   With weapons specialists, when defender bonus applies, it cannot cause weapons to go below a level of 2.
+ b.    ...Unless an Infiltrator is used, which can cause weapons to drop to 1 even when defender bonus is applied.
+ 8) If you are using multiple weapons buff specialists in combat at the same time, only the specialist that gives the highest buff counts.
+ a.   Because the Infiltrator gives a debuff instead of a buff, it can function at the same time as a weapons buff specialist.  
 
 ## Stellar Specialists
 
