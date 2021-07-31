@@ -1,6 +1,6 @@
 # Specialists
 
-*Last updated: 23 July, 2021*
+*Last updated: 30 July, 2021*
 
 ## Overview
 
@@ -55,7 +55,7 @@ Stellar specialists are specialists that can only be hired on stars.
 
 **In-game Description:** "Grants +1 Scanning Range to the Star."
 
-**Use:** See the resources, infrastructure, specialists, and ship count for stars and carriers that are just out of your scanning range. In defensive use, you will be able to see carriers being sent to your stars from farther away, giving you more time to react. In offensive use, you can attack stars from farther away with better information on your opponent's capability to defend. In addition, Orbital Arrays can help you find stars to colonize in Dark Galaxy games, and allow you to trade with others without putting too much scientific investment in scanning early game.
+**Use:** See the resources, infrastructure, specialists, and ship count for stars and carriers that are just out of your scanning range. In defensive use, you will be able to see carriers being sent to your stars from farther away, giving you more time to react. In offensive use, you can attack stars from farther away with better information on your opponent's capability to defend. In addition, Orbital Arrays can help you find stars to colonize in Dark Galaxy games, and allow you to trade with others without putting too much scientific investment in scanning early game. In addition, when you need to replace a specialist, building an Orbital Array on top of it is the cheapest way to do so at 1 token.
 
 ### Space Dock
 
@@ -63,7 +63,7 @@ Stellar specialists are specialists that can only be hired on stars.
 
 **In-game Description:** "Grants +2 Manufacturing, -1 Terraforming to the star."
 
-**Use:** The Space Dock is best used early game on your capital star (the star that starts with infrastructure, 5 industry by default) in order to speed up its ship production, either for early rushes or defense against said rushes. 
+**Use:** The Space Dock is best used early game on your capital star (the star that starts with infrastructure, 5 industry by default) in order to speed up its ship production, either for early rushes or defense against said rushes. The Space Dock is also the best specialist for if you need to cheaply replace a specialist, but can afford the extra token above the Orbital Array. This is because the +2 Manufacturing gives more ship production for the -1 Terraforming which isn't a significant downside, for the low cost of 2 tokens.
 
 ### Atmosphere Processor
 
